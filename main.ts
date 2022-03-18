@@ -19,7 +19,7 @@ let hiAlexa = sprites.create(img`
     `, SpriteKind.Player)
 let alexa = sprites.create(img`
     . . . . . f f f f f f . . . . . 
-    . . . . f e e e e e e . . . . . 
+    . . . . f e e e e e e f . . . . 
     . . . f e e e e e e e e f . . . 
     . . f e e e e e e e e e e f . . 
     . . f e e e e e e e e e e f . . 
@@ -36,3 +36,22 @@ let alexa = sprites.create(img`
     . . . . . f f b b f f . . . . . 
     `, SpriteKind.Player)
 alexa.setPosition(18, 58)
+let Riley = sprites.create(img`
+    . . . . . . . . . . . . . . . . 
+    . . . . f f f f f f f f . . . . 
+    . . . f 5 5 5 5 5 5 5 5 f . . . 
+    . . f 5 5 5 5 5 5 5 5 5 5 f . . 
+    . . f 5 5 5 5 5 5 5 5 5 5 f . . 
+    . f 5 5 d 5 5 d d 5 5 d 5 5 f . 
+    . f 5 5 f f d d d d f f 5 5 f . 
+    . f 5 5 f 9 f d d f 9 f 5 5 f . 
+    . f 5 5 d 1 f d d f 1 d 5 5 f . 
+    f f 5 5 f d d d d d d f 5 5 f f 
+    f 5 5 f f f 4 4 4 4 f f f 5 5 f 
+    . f d d f 3 4 4 4 4 3 f d d f . 
+    . . d 4 3 4 4 4 4 4 4 3 4 d . . 
+    . . d f 3 3 3 4 3 4 3 3 f d . . 
+    . . . f f 1 4 1 4 1 4 f f . . . 
+    . . . . . f f b b f f . . . . . 
+    `, SpriteKind.Player)
+Riley.setPosition(142, 57)
