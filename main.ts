@@ -35,3 +35,4 @@ let alexa = sprites.create(img`
     . . . f f 1 d 1 d 1 d f f . . . 
     . . . . . f f b b f f . . . . . 
     `, SpriteKind.Player)
+alexa.setPosition(18, 58)
