@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="^spYKi`c0(.W}+q#r#,w" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="^spYKi`c0(.W}+q#r#,w" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="51?_Oay^xh/Jg_GKQ*;F"><value name="color"><shadow type="colorindexpicker" id="#[+B;L*!=5qbnBtr81z{"><field name="index">3</field></shadow></value></block></statement></block></xml>
