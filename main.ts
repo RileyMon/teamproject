@@ -48,9 +48,9 @@ let Riley = sprites.create(img`
     . f 5 5 d 1 f d d f 1 d 5 5 f . 
     f f 5 5 f d d d d d d f 5 5 f f 
     f 5 5 f f f 4 4 4 4 f f f 5 5 f 
-    . f d d f 3 4 4 4 4 3 f d d f . 
-    . . d 4 3 4 4 4 4 4 4 3 4 d . . 
-    . . d f 3 3 3 4 3 4 3 3 f d . . 
+    . f 5 5 f 3 4 4 4 4 3 f 5 5 f . 
+    . . 5 4 3 4 4 4 4 4 4 3 4 5 . . 
+    . . 5 f 3 3 3 4 3 4 3 3 f 5 . . 
     . . . f f 1 4 1 4 1 4 f f . . . 
     . . . . . f f b b f f . . . . . 
     `, SpriteKind.Player)
