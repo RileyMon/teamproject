@@ -2,7 +2,9 @@
     "name": "teamProject",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "edge-connector": "*",
+        "darts": "*"
     },
     "files": [
         "main.blocks",
